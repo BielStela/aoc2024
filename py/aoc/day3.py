@@ -27,4 +27,4 @@ def part2(input: str) -> int:
 
 
 assert part1(TEST) == 161
-assert part2(TEST2) == 48, part2(TEST2)
+assert part2(TEST2) == 48

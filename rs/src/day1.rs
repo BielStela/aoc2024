@@ -22,5 +22,6 @@ pub fn part1(input: &str) -> usize {
 }
 
 pub fn part2(_input: &str) -> usize {
+    let (mut left_col, mut right_col) = parse_input(input);
     0
 }
